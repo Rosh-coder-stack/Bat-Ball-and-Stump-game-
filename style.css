@@ -6,6 +6,10 @@ button{
     border-radius: 5px;
     margin:5px;
     padding: 4px;
-    border: 0;
-    background-color: rgb(215, 165, 100);
+    border-color: rgb(200, 207, 207);
+    
+}
+
+img{
+    height:100px;
 }
