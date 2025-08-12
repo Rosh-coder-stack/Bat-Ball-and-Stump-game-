@@ -1,5 +1,7 @@
 body{
     text-align: center;
+    background-color: rgb(88, 171, 88);
+    
 }
 
 button{
@@ -7,6 +9,8 @@ button{
     margin:5px;
     padding: 4px;
     border-color: rgb(200, 207, 207);
+    background-color: rgb(134, 189, 134);
+    
     
 }
 
